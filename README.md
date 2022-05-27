@@ -6,9 +6,9 @@ Where Phibox Lives !
 #What is Phibox?
 Phibox is an alternate ethereum compatible blockchain network that aims at making crypto acccessible to everyone through innovation and bringing blockchain to mainstream by creating more real world and practical utility applications. 
 
-# phibox - blockchain
+#phibox - blockchain
 phibox chain uses its revolutionary phigreen consensus engine that replaces the eth consensus engine. Read more about the phigreen in the phibox whitepaper (coming soon). 
-# Connecting to phibox Network
+#Connecting to phibox Network
  (Instuctions will be published shortly)
  
  #phibox testnet
